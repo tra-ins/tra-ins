@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tra-ins
+- 👀 I’m interested in things
+- 🌱 I’m currently learning HTML/CSS
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me: https://btrains.carrd.co/
